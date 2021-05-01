@@ -5,7 +5,7 @@ Oi! Sou seu primeiro arquivo Markdown no ** StackEdit ** . Se você quiser apren
 
 # Arquivos
 
-StackEdit armazena seus arquivos em seu navegador, o que significa que todos os seus arquivos são salvos automaticamente localmente e estão acessíveis ** offline! **
+StackEdit armazena seus arquivos em seu navegador, o que significa que todos os seus arquivos são salvos automaticamente localmente e estão recuperados ** offline! **
 
 ## Crie arquivos e pastas
 
@@ -120,13 +120,13 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-`` `
+` `  `
  seqüência de sereiaDiagrama 
 Alice - >> Bob: Olá Bob, como vai você? 
-Bob - >> John: E você John? 
+Bob - >> João: E você John? 
 Bob - x Alice: Estou bem, obrigado! 
 Bob-x John: Estou bem, obrigado! 
-Nota à direita de John: Bob pensa muito <br/> muito tempo, tanto <br/> que o texto <br/> não cabe em uma linha. Bob -> Alice: Checando com o John ... Alice-> John: Sim ... John, como você está? `` `
+Nota à direita de João: Bob pensa muito <br/> muito tempo, tanto <br/> que o texto <br/> não cabe em uma linha. Bob -> Alice: Checando com o João ... Alice-> João: Sim ... João, como você está? ` ` `
 
 
 
@@ -142,5 +142,5 @@ B -> D {Rhombus}
 C -> D` ``
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE3OTIxOV19
+eyJoaXN0b3J5IjpbMTQzNDU4MzQ5XX0=
 -->
